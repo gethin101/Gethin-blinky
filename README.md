@@ -9,4 +9,4 @@ The project schematic, PCB positioning, 3D model preview and JLCPCB cart screens
 
 <img src="Assets/SCHEM.png" width="700" />
 
-<img src="Assets/JLCPCB_cart.png" width="700" />
+<img src="Assets/JLCPCB_cart.png" width="900" />
